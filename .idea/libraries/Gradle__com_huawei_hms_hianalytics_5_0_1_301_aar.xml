@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:hianalytics:5.0.1.301@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-hianalytics-5.0.1.301.aar/792a6582835187a07fa6d07d988fa835/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-hianalytics-5.0.1.301.aar/792a6582835187a07fa6d07d988fa835/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-hianalytics-5.0.1.301.aar/792a6582835187a07fa6d07d988fa835/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/hianalytics/5.0.1.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/hianalytics-5.0.1.301-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

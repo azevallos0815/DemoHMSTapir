@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:availableupdate:5.0.0.301@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/availableupdate-5.0.0.301.aar/05f04dd43963387982a2ad8186545116/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/availableupdate-5.0.0.301.aar/05f04dd43963387982a2ad8186545116/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/availableupdate-5.0.0.301.aar/05f04dd43963387982a2ad8186545116/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/availableupdate/5.0.0.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/availableupdate-5.0.0.301-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
